@@ -19,8 +19,14 @@ Um script simples em Python que obtém a cotação atualizada de moedas e cripto
    ```bash
    git clone https://github.com/Alan-0718-sj/cotacao-moedas.git
 
+## Instalação:
+2. Instale as dependências
+   ```bash
    pip install requests
-
+   
+## Execute o script:
+3. Script
+   ```bash
    python cotacao.py
 
 # 📄 Exemplo de Saída
