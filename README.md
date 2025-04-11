@@ -2,6 +2,7 @@
 
 Um script simples em Python que obtém a cotação atualizada de moedas e criptomoedas em relação ao Real Brasileiro (BRL) usando a API da AwesomeAPI.
 
+# 📄 Exemplo de Saída
 ![Exemplo de Saída](https://github.com/user-attachments/assets/38b607fc-639b-4475-a886-c9658bacbc20)
 
 ## ✨ Funcionalidades
@@ -29,19 +30,7 @@ Um script simples em Python que obtém a cotação atualizada de moedas e cripto
    ```bash
    python cotacao.py
 
-# 📄 Exemplo de Saída
-🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙>>>>><COTAÇÃO DE MOEDAS><<<<<🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙
 
- 1 USD = R$ 4.85
-####################################
 
- 1 EUR = R$ 5.25
-####################################
-
- 1 BTC = R$ 120000.00
-####################################
-
- 1 LTC = R$ 320.50
-####################################
 
    
