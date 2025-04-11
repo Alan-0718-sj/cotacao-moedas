@@ -23,6 +23,7 @@ Um script simples em Python que obtém a cotação atualizada de moedas e cripto
 
    python cotacao.py
 
+# 📄 Exemplo de Saída
 🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙>>>>><COTAÇÃO DE MOEDAS><<<<<🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙🪙
 
  1 USD = R$ 4.85
