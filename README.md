@@ -16,7 +16,7 @@ Um script simples em Python que obtém a cotação atualizada de moedas e cripto
 
 ## ⚙️ Pré-requisitos
 - Python 3.x instalado
-- Biblioteca `pip installrequests`
+- Biblioteca `pip install requests`
 
 ## 🚀 Como Usar
 1. Clone o repositório:
