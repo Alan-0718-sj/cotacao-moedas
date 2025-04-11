@@ -2,7 +2,7 @@
 
 Um script simples em Python que obtém a cotação atualizada de moedas e criptomoedas em relação ao Real Brasileiro (BRL) usando a API da AwesomeAPI.
 
-![Exemplo de Saída](https://via.placeholder.com/600x200?text=Terminal+com+Cotações+USD,+EUR,+BTC,+LTC) *(Substitua pela imagem real do seu projeto)*
+![Exemplo de Saída](https://github.com/user-attachments/assets/38b607fc-639b-4475-a886-c9658bacbc20)
 
 ## ✨ Funcionalidades
 - Consulta em **tempo real** das cotações
